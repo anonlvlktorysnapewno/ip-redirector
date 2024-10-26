@@ -1,0 +1,12 @@
+{
+  "name": "ip-redirector",
+  "version": "1.0.0",
+  "description": "Simple IP collector and redirector",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
